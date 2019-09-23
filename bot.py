@@ -23,7 +23,7 @@ keywords = [u'什麼', u'甚麼', u'what', u'?', u'？', u'沙小', u'啥']
 others = dict({u'儚い': '* https://emos.plurk.com/03860276d09cb8c3af57f4e1f67d7a10_w48_h48.gif ** https://emos.plurk.com/03860276d09cb8c3af57f4e1f67d7a10_w48_h48.gif ** https://emos.plurk.com/03860276d09cb8c3af57f4e1f67d7a10_w48_h48.gif * 儚い~ * https://emos.plurk.com/03860276d09cb8c3af57f4e1f67d7a10_w48_h48.gif ** https://emos.plurk.com/03860276d09cb8c3af57f4e1f67d7a10_w48_h48.gif ** https://emos.plurk.com/03860276d09cb8c3af57f4e1f67d7a10_w48_h48.gif *',
 		u'小薰': '......つ！！！！ (臉紅 https://emos.plurk.com/3110c3c233c48956057ec5c4628e3629_w39_h48.png',
 		u'薰': '什麼事? 可愛的小貓咪?',
-		u'喵': '喔呀，是位可愛的小貓咪呢',
+		u'喵': '\nhttps://emos.plurk.com/2855722f8a0cac58d9503de3999e3a16_w46_h48.jpeg 喔呀，可愛的小貓咪有什麼事呢? 這麼大的雨，待在這裡可是會感冒的喔?\n=== 五分鐘後 ===\nhttps://emos.plurk.com/cbf27bddd90675c4baf25fc7ce9c9ee9_w48_h47.jpeg 薰，你在做什麼?\nhttps://emos.plurk.com/c998f6c405b82415369ee41a5cecb8bb_w48_h48.gif 呦，千聖，我打算給迷失的小貓咪找個家哦\nhttps://emos.plurk.com/2c98e01f6ab8b6483815c43b263e76fc_w47_h48.jpeg ......把傘給我\nhttps://emos.plurk.com/8737ccc164cff4da40a56e1048e6d55e_w44_h48.jpeg ?\nhttps://emos.plurk.com/fff851e041880f422788fbc81f1ee159_w45_h48.jpeg 把傘給我，我們一起撐，這樣你也比較輕鬆吧?\nhttps://emos.plurk.com/0e6035708fcb34472c66bc025dce3c10_w48_h48.gif',
 		u'嗚欸': '啊，花音，你又迷路了嗎?',
 		u'嗚誒': '啊，花音，你又迷路了嗎? 我們一起走吧',
 		u'https://emos.plurk.com/a4ed9585c8b95b624483d95750b1bd0b_w48_h48.jpeg': '這不是千聖嗎，真是命運一般的邂逅啊',
