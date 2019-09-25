@@ -32,7 +32,7 @@ others = dict({u'儚い': '* https://emos.plurk.com/03860276d09cb8c3af57f4e1f67d
 		u'瑪芬': '瑪芬最棒了，濫藍也是，還有77',
 		u'遲到': 'https://emos.plurk.com/0e6035708fcb34472c66bc025dce3c10_w48_h48.gif 呦，美咲你也要遲到了嗎？我也是哦 (馬蹄聲: 咯噔咯噔\nhttps://emos.plurk.com/8d84d891658b99b6aa60e0bfd7b96811_w48_h48.png 我已經懶得吐槽了',
 		u'Leo': '啊，Leo好久不見了，你還是一樣儚い呢',
-u'leo': 'https://emos.plurk.com/c998f6c405b82415369ee41a5cecb8bb_w48_h48.gif 你這樣扯著我可是很困擾的，小貓咪\nhttps://emos.plurk.com/7fda7cf2081d578fa8f7e7616468cac4_w48_h48.jpeg Leo是隻狗喔，**小薰**',
+		u'leo': 'https://emos.plurk.com/c998f6c405b82415369ee41a5cecb8bb_w48_h48.gif 你這樣扯著我可是很困擾的，小貓咪\nhttps://emos.plurk.com/7fda7cf2081d578fa8f7e7616468cac4_w48_h48.jpeg Leo是隻狗喔，**小薰**',
 		'': 'https://emos.plurk.com/af5e30f9838bee2712b3b82440b592e1_w48_h44.jpg'
 		})
 emojis = [u'https://emos.plurk.com/7e6738afd5272b8e86fca5f9ce76f6c0_w48_h48.gif',
