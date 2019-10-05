@@ -41,12 +41,12 @@ others = dict({u'儚い': '* https://emos.plurk.com/03860276d09cb8c3af57f4e1f67d
 		u'笑': '呀，心你的笑容還是一如改往的儚い呢',
 		u'樹': '\nhttps://emos.plurk.com/c998f6c405b82415369ee41a5cecb8bb_w48_h48.gif 誒，行道樹演起來真不容易．．．\nhttps://emos.plurk.com/8d84d891658b99b6aa60e0bfd7b96811_w48_h48.png 薰前輩又在那做什麼啊．．．',
 		u'leo': '\nhttps://emos.plurk.com/c998f6c405b82415369ee41a5cecb8bb_w48_h48.gif 你這樣扯著我，我可是很困擾的，小貓咪\nhttps://emos.plurk.com/7fda7cf2081d578fa8f7e7616468cac4_w48_h48.jpeg Leo是隻狗喔，薰',
-		'': '': #'https://emos.plurk.com/af5e30f9838bee2712b3b82440b592e1_w48_h44.jpg'
-			 'https://emos.plurk.com/a4ed9585c8b95b624483d95750b1bd0b_w48_h48.jpeg 薰她現在不在喔'
-			 #'https://emos.plurk.com/7e6738afd5272b8e86fca5f9ce76f6c0_w48_h48.gif'
-			 #'https://emos.plurk.com/03860276d09cb8c3af57f4e1f67d7a10_w48_h48.gif'
-			 #'https://emos.plurk.com/eb84f444b7b5ab6b4f933cb3c4e4114e_w48_h48.png'
-			 #'https://emos.plurk.com/a5dd8755156189f69ffc99066371ec32_w48_h48.gif (盜號'
+		'': '': ('https://emos.plurk.com/af5e30f9838bee2712b3b82440b592e1_w48_h44.jpg',
+			 'https://emos.plurk.com/a4ed9585c8b95b624483d95750b1bd0b_w48_h48.jpeg 薰她現在不在喔',
+			 'https://emos.plurk.com/7e6738afd5272b8e86fca5f9ce76f6c0_w48_h48.gif',
+			 'https://emos.plurk.com/03860276d09cb8c3af57f4e1f67d7a10_w48_h48.gif',
+			 'https://emos.plurk.com/eb84f444b7b5ab6b4f933cb3c4e4114e_w48_h48.png',
+			 'https://emos.plurk.com/a5dd8755156189f69ffc99066371ec32_w48_h48.gif (盜號')
 		})
 emojis = [u'https://emos.plurk.com/7e6738afd5272b8e86fca5f9ce76f6c0_w48_h48.gif',
 		u'https://emos.plurk.com/99bec14fa184cc199bfd48a32e4254db_w48_h48.gif',
@@ -109,7 +109,7 @@ while True:
 							uuu = [ uid[i]['nick_name'] for i in uid ][0]
 							plurk.callAPI('/APP/Responses/responseAdd',
 											{'plurk_id': pid,
-											'content': '@%s: {}'.format(others[ha])%uuu, 
+											'content': '@{}: {}'.format(uuu, others[ha] if type(others[ha]) == str else random.choice(others[ha])) ,
 											'qualifier': ':'})
 							time.sleep(3)
 							break
